@@ -326,11 +326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\PrimeiraAutomacaoGit\\EdgeDriverTest\\EdgeDriverTest.csproj",
+      "projectUniqueName": "C:\\Users\\Juba\\Documents\\GitHub\\Frameworkzada\\EdgeDriverTest\\EdgeDriverTest.csproj",
       "projectName": "EdgeDriverTest",
-      "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\PrimeiraAutomacaoGit\\EdgeDriverTest\\EdgeDriverTest.csproj",
+      "projectPath": "C:\\Users\\Juba\\Documents\\GitHub\\Frameworkzada\\EdgeDriverTest\\EdgeDriverTest.csproj",
       "packagesPath": "C:\\Users\\Juba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juba\\Documents\\GitHub\\PrimeiraAutomacaoGit\\EdgeDriverTest\\obj\\",
+      "outputPath": "C:\\Users\\Juba\\Documents\\GitHub\\Frameworkzada\\EdgeDriverTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
