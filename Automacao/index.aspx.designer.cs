@@ -13,22 +13,22 @@ namespace Automacao {
     public partial class _Default {
         
         /// <summary>
-        /// Controle TextBoxNumero1.
+        /// Controle TextBoxPrimeiroNumero.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxNumero1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxPrimeiroNumero;
         
         /// <summary>
-        /// Controle TextBoxNumero2.
+        /// Controle TextBoxSegundoNumero.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBoxNumero2;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSegundoNumero;
         
         /// <summary>
         /// Controle ButtonCalcular.

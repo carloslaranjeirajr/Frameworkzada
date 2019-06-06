@@ -59,8 +59,7 @@ namespace SeleniumTests
             public void TheAutomacao1Test()
             {
                 driver.Navigate().GoToUrl("https://carloslaranjeirajr.azurewebsites.net/index");
-                //driver.Navigate().GoToUrl("http://localhost:60981/index");
-                //driver.Navigate().GoToUrl("https://carloslaranjeirajr.azurewebsites.net/index.aspx");
+                //driver.Navigate().GoToUrl("http://localhost:64786/index");
                 driver.FindElement(By.Id("TextBoxPrimeiroNumero")).Click();
                 driver.FindElement(By.Id("TextBoxPrimeiroNumero")).Clear();
                 driver.FindElement(By.Id("TextBoxPrimeiroNumero")).SendKeys("2");

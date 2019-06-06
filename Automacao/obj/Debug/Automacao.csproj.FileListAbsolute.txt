@@ -66,7 +66,6 @@ C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\bin\Microsoft.AspN
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\bin\pt-br\System.Web.Optimization.resources.dll
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
-C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\obj\Debug\Automacao.csprojAssemblyReference.cache
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\obj\Debug\Automacao.csproj.CoreCompileInputs.cache
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\obj\Debug\Automacao.csproj.CopyComplete
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\Automacao\obj\Debug\Automacao.dll

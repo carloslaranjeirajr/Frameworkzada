@@ -16,7 +16,7 @@ namespace Automacao
 
         protected void ButtonCalcular_Click(object sender, EventArgs e)
         {
-            LabelResultado.Text = (Convert.ToInt32(TextBoxNumero1.Text) + Convert.ToInt32(TextBoxNumero2.Text)).ToString();
+            LabelResultado.Text = (Convert.ToInt32(TextBoxPrimeiroNumero.Text) + Convert.ToInt32(TextBoxSegundoNumero.Text)).ToString();
         }
     }
 }

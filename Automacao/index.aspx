@@ -5,10 +5,10 @@
     <div class="jumbotron">
         <h1>ASP.NET</h1>
         <p class="lead">Número 1:
-            <asp:TextBox ID="TextBoxNumero1" runat="server"></asp:TextBox>
+            <asp:TextBox ID="TextBoxPrimeiroNumero" runat="server"></asp:TextBox>
         </p>
         <p class="lead">Número 2:
-            <asp:TextBox ID="TextBoxNumero2" runat="server"></asp:TextBox>
+            <asp:TextBox ID="TextBoxSegundoNumero" runat="server"></asp:TextBox>
         </p>
         <p class="lead">
             <asp:Button ID="ButtonCalcular" runat="server" OnClick="ButtonCalcular_Click" Text="Calcular" />

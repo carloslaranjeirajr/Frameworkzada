@@ -9,7 +9,6 @@ C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\bin\Debug\Edg
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\bin\Debug\WebDriver.dll
-C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\obj\Debug\EdgeDriverTest.csprojAssemblyReference.cache
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\obj\Debug\EdgeDriverTest.csproj.CoreCompileInputs.cache
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\obj\Debug\EdgeDriverTest.csproj.CopyComplete
 C:\Users\Juba\Documents\GitHub\PrimeiraAutomacaoGit\EdgeDriverTest\obj\Debug\EdgeDriverTest.dll
