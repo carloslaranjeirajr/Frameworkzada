@@ -52,6 +52,7 @@ namespace SeleniumTests
         }
 
         [TestMethod]
+        [TestCategory("TestesSelenium")]
         public void TheUntitledTestCaseTest()
         {
             driver.Navigate().GoToUrl("https://carloslaranjeirajr.azurewebsites.net/index");
