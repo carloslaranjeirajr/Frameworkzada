@@ -55,7 +55,7 @@ namespace SeleniumTests
         [TestCategory("TestesSelenium")]
         public void TheUntitledTestCaseTest()
         {
-            driver.Navigate().GoToUrl("https://carloslaranjeirajr.azurewebsites.net/index");
+            driver.Navigate().GoToUrl("http://carloslaranjeirajr.gearhostpreview.com/index");
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Click();
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).Clear();
             driver.FindElement(By.Id("MainContent_TextBoxPrimeiroNumero")).SendKeys("2");
