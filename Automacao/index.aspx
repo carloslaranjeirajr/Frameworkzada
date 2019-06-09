@@ -15,7 +15,7 @@
         </p>
         <p class="lead">
             <asp:Label ID="LabelTextoResultado" runat="server" Text="Resultado:"></asp:Label>
-            <asp:Label ID="LabelResultado" runat="server"></asp:Label>
+            <asp:Label ID="LabelResultado" runat="server" style="color: #0000CC"></asp:Label>
         </p>
     </div>
 
